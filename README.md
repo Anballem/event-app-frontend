@@ -7,7 +7,7 @@ Built with React and connected to a REST API backend.
 
 ## 🚀 Live Demo
 
-🔗 https://anballem.github.io/event-app-frontend
+🔗 https://event-app-frontend-ashy.vercel.app
 
 ---
 
